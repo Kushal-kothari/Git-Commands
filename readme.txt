@@ -34,4 +34,4 @@ then write something a message and then exit and save
 9>If we want to change the commit message  the changes which we havent pushed use : git commit --amend
 	It will open the text editor write the message and just save and to check write git log
 
-10> if we want to check what is there in our github/gitlab etc use : git remote
+10> if we want to check what is there in our github/gitlab etc use : git remote.
